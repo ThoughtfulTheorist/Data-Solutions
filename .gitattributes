@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# SQL scripts
+*.sql linguist-language=SQL
+
+# Python scripts
+*.py linguist-language=Python
+
+# JavaScript files
+*.js linguist-language=JavaScript
