@@ -3,6 +3,7 @@
 
 # SQL scripts
 *.sql linguist-language=SQL
+*.sql diff
 
 # Python scripts
 *.py linguist-language=Python
